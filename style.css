@@ -1,0 +1,41 @@
+body {
+  font-family: inter, sans-serif;
+}
+
+header {
+  background-image: url(./Assets/Hero-bg.png);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px 150px;
+}
+
+.logo {
+  font-size: 34px;
+  color: #4E47FF;
+  font-weight: 900;
+}
+
+.btn1 {
+
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  background-color: #4E47FF;
+}
+
+.banner{
+  text-align: center;
+  margin-top: 158px;
+}
+
+.cool {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 65px;
+
+}
