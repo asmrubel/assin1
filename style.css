@@ -34,8 +34,32 @@ nav {
 }
 
 .cool {
-  font-family: "Raleway", sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 65px;
 
+}
+.action{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+}
+
+.action-content{
+  width: 517px;
+  height: 203px;
+}
+
+.action-head{
+
+  font-size: 42px;
+  font-family: Raleway, sans-serif;
+
+}
+
+.mini{
+  width: 403px;
+  height: 328px;
+  border-radius: 25px;
 }
